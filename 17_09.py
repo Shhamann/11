@@ -7,3 +7,4 @@ while not np == 0:
     k = k * p
     np = np // 10
 print(f"N10 = {N10}")
+print('Готово!')
