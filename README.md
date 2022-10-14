@@ -10,3 +10,5 @@ BDTEST https://github.com/Shhamann/11/blob/main/bdtest.py
 МОРЗЕ EXCEL https://github.com/Shhamann/11/blob/main/%D0%BC%D0%BE%D1%80%D0%B7%D0%B5.xlsx
 
 ТАБЛИЦЫ EXCEL СТР. 40 И 50 https://github.com/Shhamann/11/blob/main/%D1%8140%2C%D1%8150.xlsx
+
+Программа перевода по коду Хэмминга https://github.com/Shhamann/11/blob/main/08.10.ipynb
