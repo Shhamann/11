@@ -2,6 +2,7 @@
 ![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Батон_Слобожанский_Харьков.JPG/280px-Батон_Слобожанский_Харьков.JPG)
 # Аккаунты
 [wordpress](https://wordpress.com/home/shaman104947672.wordpress.com)
+
 [Codepen](https://codepen.io/Shhamann)
 
 # Файлы
