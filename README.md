@@ -6,6 +6,8 @@
 [Codepen](https://codepen.io/Shhamann)
 
 # Файлы
+[перевод в десятичную СС на pyton](https://github.com/Shhamann/11/blob/main/17_09.py)
+
 [команды sql](https://github.com/Shhamann/11/blob/main/sql)
 
 [пробная программа в Юпитере](https://github.com/Shhamann/11/blob/main/11.ipynb)
