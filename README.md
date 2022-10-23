@@ -10,7 +10,7 @@
 
 [пробная программа в Юпитере](https://github.com/Shhamann/11/blob/main/11.ipynb)
 
-[Таблица истинности](https://github.com/Shhamann/11/blob/main/%D1%82%D0%B0%D0%B1%D0%BB%20%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D0%B8.xlsx)
+[Таблица истинности excel](https://github.com/Shhamann/11/blob/main/%D1%82%D0%B0%D0%B1%D0%BB%20%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D0%B8.xlsx)
 
 [BDTEST](https://github.com/Shhamann/11/blob/main/bdtest.py)
 
