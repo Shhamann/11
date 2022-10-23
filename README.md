@@ -6,6 +6,8 @@
 [Codepen](https://codepen.io/Shhamann)
 
 # Файлы
+[таблица умножения на pyton](https://github.com/Shhamann/11/blob/main/table.py)
+
 [третье задание ЕГЭ демоверсия](https://github.com/Shhamann/11/blob/main/3.xlsx)
 
 [перевод в десятичную СС на pyton](https://github.com/Shhamann/11/blob/main/17_09.py)
