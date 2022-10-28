@@ -6,6 +6,8 @@
 [Codepen](https://codepen.io/Shhamann)
 
 # Файлы
+[Задача. Буливое вражение](https://github.com/Shhamann/11/blob/main/%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0.py)
+
 [таблица умножения на pyton](https://github.com/Shhamann/11/blob/main/table.py)
 
 [третье задание ЕГЭ демоверсия](https://github.com/Shhamann/11/blob/main/3.xlsx)
