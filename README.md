@@ -31,3 +31,13 @@
 [ТАБЛИЦЫ EXCEL СТР. 40 И 50](https://github.com/Shhamann/11/blob/main/%D1%8140%2C%D1%8150.xlsx)
 
 [Программа перевода по коду Хэмминга](https://github.com/Shhamann/11/blob/main/08.10.ipynb)
+
+# Пример Latex формулы
+$$ A \wedge  B = B \wedge  A $$
+
+![lagrida_latex_editor](https://user-images.githubusercontent.com/114716744/198502761-b3323aa4-b217-4b85-bfb1-29c15745eb44.png)
+
+ $$ \bar{A} \wedge \bar{B} = \bar{B} \wedge  \bar{A} $$
+ 
+ ![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114716744/198503300-8a8a3427-c616-49d2-a541-2287f371074d.png)
+
