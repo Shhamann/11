@@ -44,5 +44,7 @@ $$ A \wedge  B = B \wedge  A $$
  $$ \overline{\sum_{1}^{2}}=\sqrt{\frac{F a^{x-1}}{(x-1)\cdot x}}+\alpha_{1}^{\frac{1}{3}}+\beta_{2}^{\frac{2}{3}} $$
  
  $$ F=\frac{G\cdot m_{1}\cdot m_{2}}{R^{2}} $$
+ 
+ $$ S=\upsilon_{0}t+\frac{a\cdot t^{2}}{2} $$
 
 
