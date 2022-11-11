@@ -32,7 +32,7 @@
 
 [Программа перевода по коду Хэмминга](https://github.com/Shhamann/11/blob/main/08.10.ipynb)
 
-# Пример Latex формулы
+# Latex формулы
 $$ A \wedge  B = B \wedge  A $$
 
 ![lagrida_latex_editor](https://user-images.githubusercontent.com/114716744/198502761-b3323aa4-b217-4b85-bfb1-29c15745eb44.png)
@@ -40,4 +40,7 @@ $$ A \wedge  B = B \wedge  A $$
  $$ \bar{A} \wedge \bar{B} = \bar{B} \wedge  \bar{A} $$
  
  ![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114716744/198503300-8a8a3427-c616-49d2-a541-2287f371074d.png)
+ 
+ $$ \overline{\sum_{1}^{2}}=\sqrt{\frac{F \alpha^{x-1}}{(x-1)\cdot x}}+\alpha_{1}^{\frac{1}{3}}+\beta_{2}^{\frac{2}{3}} $$
+
 
