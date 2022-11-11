@@ -46,5 +46,9 @@ $$ A \wedge  B = B \wedge  A $$
  $$ F=\frac{G\cdot m_{1}\cdot m_{2}}{R^{2}} $$
  
  $$ S=\upsilon_{0}t+\frac{a\cdot t^{2}}{2} $$
+ 
+ $$ a=\frac{\upsilon_{1}-\upsilon_{0}}{t} $$
+ 
+![lagrida_latex_editor (13)](https://user-images.githubusercontent.com/114716744/201260156-d1172d6a-1cb3-4503-8405-dc31aa2a13f7.png)
 
 
