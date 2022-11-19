@@ -45,7 +45,7 @@ def info():
 
 
 
-def zvook():
+def sound():
     dano = 0
     # yslov = int(input("Выбирите тип аудиофайла:\n1) моноаудиофайл\n2) стериоаудио файл\nВыбор: "))
     # if yslov == 1:
@@ -70,7 +70,12 @@ def zvook():
         I = int(input("I(разрядность регистора) = "))
         D = int(input("Ввидите в Гц. D(частота дискритизации) = "))
         T = A/D/I
-        print(T)
+        print(f"T = {A/D/I}")
+    if dano == 4:
+        D = int(input("Ввидите в Гц. D(частота дискритизации) = "))
+        T = int(input("Т(время звучания) = "))
+        A = int(input("Ввидите в битах. A(размер цифрового аудиофайла) = "))
+        print(f"I = {A/D/T}")
 
 def pic():
     dano = int(input("Выберите, что найти: \n1) k - количество цветов в палитре \n2) I - глубина цвета или битовая глубина")
@@ -90,7 +95,7 @@ zadacha = int(input("Vыберите тип задачи: \n1) задачи на
 if zadacha == 1:
         info()
 if zadacha == 2:
-        zvook()
+        sound()
 if zadacha == 3:
         pic()
 
