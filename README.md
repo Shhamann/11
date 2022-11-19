@@ -52,3 +52,4 @@ $$ A \wedge  B = B \wedge  A $$
 ![lagrida_latex_editor (13)](https://user-images.githubusercontent.com/114716744/201260156-d1172d6a-1cb3-4503-8405-dc31aa2a13f7.png)
 
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPCLTLQU=/?moveToViewport=-1797,-159,2416,1179&embedId=593174128360" frameborder="0" scrolling="no" allowfullscreen></iframe>
