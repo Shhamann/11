@@ -1,0 +1,16 @@
+from PIL import Image, ImageDraw, ImageFont
+ 
+def mama():
+    img = Image.new('RGB', (200, 200), '#d9ddff')    
+    idraw = ImageDraw.Draw(img)
+    text = "MAMA"
+    font = ImageFont.truetype("arial.ttf", size=18)
+    idraw.text((80, 80), text, font=font)
+    img.show()
+def papa():
+    img = Image.new('RGB', (200, 200), '#a4ebb9')    
+    idraw = ImageDraw.Draw(img)
+    text = "PAPA"
+    font = ImageFont.truetype("arial.ttf", size=18)
+    idraw.text((80, 80), text, font=font)
+    img.show()
