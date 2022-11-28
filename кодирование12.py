@@ -15,7 +15,7 @@ def info():
     if dano == 2:
         if cond == 'no':
             N = int(input("N="))
-            I= int(input("Ввидите в битах. I="))
+            I = int(input("Ввидите в битах. I="))
             print(f"k = {I/math.log2(N)}")
         else:
             i = int(input("Ввидите в битах. i="))
