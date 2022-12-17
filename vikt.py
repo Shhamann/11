@@ -8,5 +8,5 @@ def vikt():
         if yans == ans[i]:
             kolvo += 1
     print(f'Количество правильных ответов:{kolvo}')
-    # return str(input(f' начать с начала?{x}'))
+    # return str(input(f' начать с начала?(yes/no){x}'))
 vikt()
