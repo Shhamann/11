@@ -92,8 +92,7 @@ $$ A \wedge  B = B \wedge  A $$
 
 ```mermaid
 stateDiagram-v2
-```mermaid
-stateDiagram-v2
+
     >=129 --> 128:+1, Ваня
     >=129 --> 65:*2, Ваня
     128 --> 127:+1, Петя
@@ -107,5 +106,5 @@ stateDiagram-v2
     63 --> 62:+1, П
     126 --> !63:*2, П
     126 --> 125:+1, П
-```
+
 ```
