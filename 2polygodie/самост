@@ -1,0 +1,8 @@
+from itertools import product
+su = 0
+for a, b, c, d, e, f in product(range(1,8), range(8), range(8), range(8),range(8),range(8)): 
+    s=str(a)+str(b)+str(c)+str(d)+str(e)+str(f)
+    if s.count('4')==1:
+        if s.index('4')==len(s)-1 and int(s[len(s)-2])%2==0 or s.index('4')==0 and int(s[1])%2==0 or s.index('4')<len(s)-1 and s.index('4')>0 and int(s[s.index('4')-1])%2==0 and int(s[s.index('4')+1])%2==0:
+            su += 1
+print(su)
