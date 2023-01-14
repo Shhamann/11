@@ -11,7 +11,13 @@ print(su)
 
 
 №6
-
+from turtle import *
+forward(100)
+right(135)
+forward(100*2**(1/2))
+right(135)
+forward(100)
+done()
 
 
           
