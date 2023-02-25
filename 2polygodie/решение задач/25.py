@@ -1,20 +1,20 @@
 from operator import itemgetter
-def f25(chislo):
-    if int(chislo)%2023==0:
-        ost=int(chislo)//2023
-        itog.append(chislo)
+def f25(n):
+    if int(n)%2023==0:
+        ost=int(n)//2023
+        itog.append(n)
         itogost.append(ost)
 
 itog=[]
 itogost=[]
 for i in range(10):
   for y in range(1000000):
-      chislo='1'+str(i)+'21394'
-      f25(chislo)
+      n='1'+str(i)+'21394'
+      f25(n)
 
-      chislo='1'+str(i)+'2139'+str(y)+'4'
-      if int(chislo)>10**10: break
-      f25(chislo)
+      n='1'+str(i)+'2139'+str(y)+'4'
+      if int(n)>10**10: break
+      f25(n)
 
 itogo=list(zip(itog,itogost))
 print(*itogo)
