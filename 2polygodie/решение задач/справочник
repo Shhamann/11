@@ -116,8 +116,4 @@ s=sorted(s[1:],reverse=True) - сортировка по убыванию False 
 
 s.sort(reverse=True)
 
-#27
 
-min_s = min(s,min_s) - выводит минимальное значение
-
-round() - округление
